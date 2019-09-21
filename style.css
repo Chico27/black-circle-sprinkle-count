@@ -1,0 +1,22 @@
+.flex {
+  display: inline-block;
+}
+.box {
+  width: 16px;
+  height: 16px;
+  background: #000;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: 0.2s;
+  margin: 0 16px 8px 0;
+}
+
+.box_disappear {
+  width: 16px;
+  height: 16px;
+  background: #FFF;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: 0.2s;
+  margin: 0 16px 8px 0;
+}
